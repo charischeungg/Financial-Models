@@ -2,7 +2,7 @@
 
 **Objective:**
 Evaluated the potential acquisition of Landmark Solutions by Broadway Corp., a $120M transaction, through comprehensive financial modeling and valuation analysis.
-
+**Key Features**
 * A 3-way financial model (Income Statement, Balance Sheet, Cash Flow) for both companies under Base and Pessimistic scenarios, incorporating historical data and operational driver projections (sales, working capital, PPE, financing).
 * Calculated unlevered and levered betas using comparable companies, determined WACC for Landmark, Broadway, and the combined entity using CAPM, and recommended the appropriate discount rate for acquisition valuation.
 * Modeled merged pro forma financials under 100% debt and 50% debt financing scenarios, analyzing key credit metrics including solvency, liquidity, gearing, and debt service coverage.
