@@ -16,7 +16,6 @@ Evaluated the potential acquisition of Landmark Solutions by Broadway Corp., a $
 **Objective:**
 Economic Value Added is a performance metric that calculates the "true" economic profit of a company by subtracting the cost of capital from its operating profit. This project aims to use EVA to tell us if Woolworths is creating or destroying shareholder wealth.
 
-**Key Features**
 <a href="https://unsw-my.sharepoint.com/:x:/r/personal/z5479602_ad_unsw_edu_au/Documents/Employability/Projects/EVA%20-%20Woolowths%20Group.xlsx?d=w87723f84468143b2b362eec6b25b6d38&csf=1&web=1&e=OVPtbW"> View Excel File</a>
 
 
