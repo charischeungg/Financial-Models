@@ -1,14 +1,4 @@
-## Automated Financial Reporting [Power BI, Azure Data Studio, Power Query]
 
-**Objective:**
-To automate and visualise reporting whilst improving efficiency and reporting integrity. Aims for new insights to take on competitors. 
-
-AR & AP Ageing REports
-slice by customer, suupplier, reagion. 
-
-Financial Statemtns
-This will save time. A high level summary of income statemtns: EBIT%, Gross Profit%, Net Incomer. Balanced Sheet: current ration etc. 
-Sales & Inventory
 
 
 ## Financial Modeling & M&A Analysis – Landmark Solutions Acquisition [Excel]
@@ -60,4 +50,16 @@ This project aims  tracks monthly household cash flow, compares budgeted vs. act
 
 
 <a href="https://unsw-my.sharepoint.com/:x:/g/personal/z5479602_ad_unsw_edu_au/IQC3hLayXqwzTrGbd209CZJeAZsfnoqh4dr_Y0FIjmkeXcw?e=58xCTN"> View Excel File</a>
+
+## Automated Financial Reporting [Power BI, Azure Data Studio, Power Query]
+
+**Objective:**
+To automate and visualise reporting whilst improving efficiency and reporting integrity. Aims for new insights to take on competitors. 
+
+AR & AP Ageing REports
+slice by customer, suupplier, reagion. 
+
+Financial Statemtns
+This will save time. A high level summary of income statemtns: EBIT%, Gross Profit%, Net Incomer. Balanced Sheet: current ration etc. 
+Sales & Inventory
 
