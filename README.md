@@ -25,7 +25,7 @@ Evaluated the potential acquisition of Landmark Solutions by Broadway Corp., a $
 
 <a href="https://unsw-my.sharepoint.com/:x:/r/personal/z5479602_ad_unsw_edu_au/Documents/Employability/Financial%20Modeling%20%26%20M%26A%20Analysis.xlsx?d=w92db24a8b14048598ef3e0363ba57431&csf=1&web=1&e=rgI7Jw"> View Excel File</a>
 
-## Leverage Buy Ourt Model for Panera Bread [Excel]
+## Leverage Buy Out Model for Panera Bread [Excel]
 
 **Objective:**
 To evaluate whether a leveraged buyout of Panera Bread generates sufficient returns for the private equity sponsor. The analysis determines if acquiring the company at a premium with significant debt financing can achieve target IRR and cash-on-cash returns over a five-year holding period.
