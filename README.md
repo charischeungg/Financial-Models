@@ -34,9 +34,9 @@ To evaluate whether a leveraged buyout of Panera Bread generates sufficient retu
 
 ##  Analysis Woolworths Group (ASX) [Excel] 
 **Objective:**
-Economic Value Added is a performance metric that calculates the "true" economic profit of a company by subtracting the cost of capital from its operating profit. 
-The primary purpose of the Dividend Discount Model (DDM) is to determine the intrinsic value of a company’s stock based on the present value of its future dividend payments. It helps investors identify if a stock is overvalued or undervalued relative to its market price, making it most suitable for stable, dividend-paying mature companies.
-This project aims to use EVA to tell us if Woolworths is creating or destroying shareholder wealth, and the DDM to tell us 
+
+This project aims to use EVA to assess Woolworth's  "true" economic profitability and whether they are creating or destroying shareholder wealth. This project uses the Dividend Discount Model to determine the intrinsic value of their stock based on the present value of its future dividend payments. This identifies whether they are over or undervalues relative to the market price.
+
 <a href="https://unsw-my.sharepoint.com/:x:/r/personal/z5479602_ad_unsw_edu_au/Documents/Employability/Projects/EVA%20-%20Woolowths%20Group.xlsx?d=w87723f84468143b2b362eec6b25b6d38&csf=1&web=1&e=OVPtbW"> View Excel File</a>
 
 
